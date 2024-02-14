@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Employee Leave Form</title>
+    <title> Leave application Form</title>
     <link rel="stylesheet" href="leave.css">
     
 </head>
